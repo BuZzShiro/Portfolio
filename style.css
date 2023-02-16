@@ -1,0 +1,15 @@
+*{
+	margin:0;
+	padding:0;
+	background-color: rgba(24,0,24,1);
+	color:silver;
+}
+.Renders{
+	margin-left:10%;
+	margin-top:20px;
+}
+.Render{
+	min-width:80%;
+	max-width:80%;
+	float:left;
+}
