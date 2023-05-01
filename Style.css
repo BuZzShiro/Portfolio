@@ -17,12 +17,12 @@ html,body{
 
 Nav{
 	background:linear-gradient(rgba(80,40,80,1),rgba(0,0,0,1));
-	padding-left:150px;
+	padding-left:250px;
 	padding-top:40px;
 	padding-bottom:40px;
 	height:50px;
-	min-width:calc(100% - 150px);
-	max-width:calc(100% - 150px);
+	min-width:calc(100% - 250px);
+	max-width:calc(100% - 250px);
 }
 a.NavButton{
 	color:rgba(255,255,255,0.7);
