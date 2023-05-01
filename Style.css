@@ -62,6 +62,8 @@ a.ModelImgLink{
 	margin-left:1%;
 	opacity:0.8;
 	float:left;
+	width:9%;
+	height:9%;
 }
 a.ModelImgLink:hover{
 	opacity:0.9;
@@ -70,8 +72,8 @@ a.ModelImgLink:active{
 	opacity:1;
 }
 .ModelImg{
-	width:9%;
-	height:9%;
+	width:100%;
+	height:100%;
 	border-radius: 25%;
 	box-shadow 0px 0px 15px rgba(255,0,0,1);
 }
