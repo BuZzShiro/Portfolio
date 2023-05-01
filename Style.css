@@ -72,8 +72,8 @@ a.ModelImgLink:active{
 .ModelImg{
 	width:200px;
 	height:200px;
-	border-radius: 50%;
-	box-shadow 0px 10px red;
+	border-radius: 25%;
+	box-shadow 0px 0px 15px rgba(255,0,0,1);
 }
 .ModelViewer{
 	background-color:black;
