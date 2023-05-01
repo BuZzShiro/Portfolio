@@ -10,7 +10,7 @@ html,body{
 
 :root{
 	--NavBarPadding:40px;
-	--NavBarButtonSize:50px;
+	--NavBarButtonSize:35px;
 	--SideBarWidth:100px;
 }
 
@@ -39,7 +39,7 @@ a.NavButton:active{
 .SideBar{
 	position:absolute;
 	z-index: -1;
-	top:130;
+	top:115;
 	background:rgba(0,0,0,1);
 	min-width:var(--SideBarWidth);
 	max-width:var(--SideBarWidth);
