@@ -51,15 +51,15 @@ a.NavButton:active{
 	position:absolute;
 	z-index: 5;
 	top:110;
-	background:rgba(255,255,255,1);
-	min-width:var(--SideBarWidth);
-	max-width:var(--SideBarWidth);
-	min-height:calc(100% - 130px);
-	max-height:calc(100% - 130px);
+	background:rgba(255,255,255,0.5);
+	min-width:100%;
+	max-width:100%;
+	min-height:300px;
+	max-height:300px;
 }
 .ModelImg{
-	width:40px;
-	height:40px;
+	width:256px;
+	height:256px;
 }
 .ModelViewer{
 	background-color:black;
