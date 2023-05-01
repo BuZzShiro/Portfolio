@@ -59,9 +59,8 @@ a.NavButton:active{
 
 .ModelViewer{
 	background-color:black;
-	position:absolute;
 	z-index:-99;
-	top:130px;
+	top:0;
 	left:var(--SideBarWidth);
 	min-width:calc(100% - var(--SideBarWidth));
 	max-width:calc(100% - var(--SideBarWidth));
