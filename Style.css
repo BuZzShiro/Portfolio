@@ -49,7 +49,7 @@ a.NavButton:active{
 }
 .ModelSideBar{
 	position:absolute;
-	z-index: -1;
+	z-index: 5;
 	top:110;
 	background:rgba(50,0,0,1);
 	min-width:var(--SideBarWidth);
