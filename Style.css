@@ -58,8 +58,8 @@ a.NavButton:active{
 	max-height:300px;
 }
 a.ModelImgLink{
-	margin-left:10px;
-	margin-right:10px;
+	margin-top:10px;
+	margin-left:1%;
 	opacity:0.8;
 	float:left;
 }
@@ -70,8 +70,8 @@ a.ModelImgLink:active{
 	opacity:1;
 }
 .ModelImg{
-	width:200px;
-	height:200px;
+	width:calc((100 / 8)) - 1);
+	height:calc((100 / 8)) - 1);
 	border-radius: 25%;
 	box-shadow 0px 0px 15px rgba(255,0,0,1);
 }
