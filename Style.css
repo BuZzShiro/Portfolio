@@ -46,9 +46,21 @@ a.NavButton:active{
 	max-width:var(--SideBarWidth);
 	min-height:calc(100% - 130px);
 	max-height:calc(100% - 130px);
-	box-shadow: 10px 0px 30px rgba(120,60,120,1);
 }
-
+.ModelSideBar{
+	position:absolute;
+	z-index: -1;
+	top:110;
+	background:rgba(50,0,0,1);
+	min-width:var(--SideBarWidth);
+	max-width:var(--SideBarWidth);
+	min-height:calc(100% - 130px);
+	max-height:calc(100% - 130px);
+}
+.ModelImg{
+	width:40px;
+	height:40px;
+}
 .ModelViewer{
 	background-color:black;
 	top:0;
