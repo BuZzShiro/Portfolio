@@ -57,10 +57,19 @@ a.NavButton:active{
 	min-height:300px;
 	max-height:300px;
 }
+a.ModelImgLink{
+	opacity:0.8;
+	float:left;
+}
+a.ModelImgLink:hover{
+	opacity:0.9;
+}
+a.ModelImgLink:active{
+	opacity:1;
+}
 .ModelImg{
 	width:256px;
 	height:256px;
-	display: block;
 }
 .ModelViewer{
 	background-color:black;
