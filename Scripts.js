@@ -1,5 +1,5 @@
-document.getElementById("TeskClick").onclick = function() {ChangeModel()};
+document.getElementById("TeskClick").onclick = function() {ClickTest()};
 
-function ChangeModel() {
+function ClickTest() {
   document.getElementById("TestResult").innerHTML = "Javascript test";
 }
