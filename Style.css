@@ -61,7 +61,7 @@ a.NavButton:active{
 	background:rgba(255,255,255,0.5);
 	min-height:calc(100% - 110px);
 	max-height:calc(100% - 110px);
-	max-width:200px;
+	max-width:220px;
 }
 
 a.ModelImgLink{
@@ -80,12 +80,12 @@ a.ModelImgLink:active{
 }
 
 a.ModelImgLinkVert{
-	margin-top:1%;
-	margin-left:1%;
+	margin-top:10px;
+	margin-left:10px;
 	opacity:0.8;
 	float:left;
-	width:49%;
-	height:49%;
+	width:100px;
+	height:100px;
 }
 a.ModelImgLinkVert:hover{
 	opacity:0.9;
