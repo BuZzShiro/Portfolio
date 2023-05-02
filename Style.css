@@ -63,6 +63,7 @@ a.NavButton:active{
 	max-height:calc(100% - 110);
 	max-width:200px;
 }
+
 a.ModelImgLink{
 	margin-top:10px;
 	margin-left:0.9%;
@@ -74,20 +75,26 @@ a.ModelImgLink{
 a.ModelImgLink:hover{
 	opacity:0.9;
 }
-a.ModelImgLink{
-	margin-top:10px;
-	margin-left:0.9%;
-	opacity:0.6;
-	float:left;
-	width:9%;
-	height:9%;
-}
-a.ModelImgLink:hover{
-	opacity:0.8;
-}
 a.ModelImgLink:active{
 	opacity:1;
 }
+
+a.ModelImgLinkVert{
+	margin-top:10px;
+	margin-left:1%;
+	opacity:0.8;
+	float:left;
+	width:49%;
+	height:49%;
+}
+a.ModelImgLinkVert:hover{
+	opacity:0.9;
+}
+a.ModelImgLinkVert:active{
+	opacity:1;
+}
+
+
 .ModelImg{
 	width:100%;
 	height:100%;
