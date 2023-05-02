@@ -77,13 +77,13 @@ a.ModelImgLink:hover{
 a.ModelImgLink{
 	margin-top:10px;
 	margin-left:0.9%;
-	opacity:0.8;
+	opacity:0.6;
 	float:left;
 	width:9%;
 	height:9%;
 }
 a.ModelImgLink:hover{
-	opacity:0.9;
+	opacity:0.8;
 }
 a.ModelImgLink:active{
 	opacity:1;
