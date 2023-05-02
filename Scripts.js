@@ -1,5 +1,5 @@
-document.getElementById("MImgLink").onclick = function() {ChangeModel()};
+document.getElementById("TeskClick").onclick = function() {ChangeModel()};
 
 function ChangeModel() {
-  document.getElementById("MViewer").src = "Desk.gltf";
+  document.getElementById("TestResult").innerHTML = "Javascript test";
 }
