@@ -9,6 +9,9 @@ font-family: 'Open Sans', sans-serif;
 	height:100px;
 	float:left;
 }
+.TestResult{
+	color:white;
+}
 html,body{
 	height:100%;
 }
