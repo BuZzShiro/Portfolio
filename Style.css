@@ -59,8 +59,8 @@ a.NavButton:active{
 	z-index: 5;
 	top:110;
 	background:rgba(255,255,255,0.5);
-	min-height:calc(100% - 110);
-	max-height:calc(100% - 110);
+	min-height:calc(100% - 110px);
+	max-height:calc(100% - 110px);
 	max-width:200px;
 }
 
