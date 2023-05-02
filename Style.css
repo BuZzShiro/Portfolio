@@ -69,6 +69,7 @@ a.NavButton:active{
 	background:rgba(255,255,255,0.5);
 	min-height:calc(100% - 110);
 	max-height:calc(100% - 110);
+	max-width:200px;
 }
 a.ModelImgLink{
 	margin-top:10px;
