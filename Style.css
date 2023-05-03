@@ -16,7 +16,7 @@ html,body{
 }
 
 Nav{
-	background:linear-gradient(rgba(80,40,80,1),rgba(0,0,0,1));
+	background:linear-gradient(rgba(80,40,80,1),rgba(80,40,80,1),rgba(0,0,0,1));
 	padding-left:250px;
 	padding-top:40px;
 	padding-bottom:40px;
