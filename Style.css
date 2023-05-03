@@ -24,6 +24,19 @@ Nav{
 	min-width:calc(100% - 250px);
 	max-width:calc(100% - 250px);
 }
+.Contact{
+	float:left;
+	width:20%;
+}
+.Email{
+	font-size:30px;	
+	background:rgba(255,255,255,1);
+}
+.Email{
+	font-size:25px;	
+	background:rgba(255,255,255,1);
+}
+
 a.NavButton{
 	color:rgba(255,255,255,0.7);
 	margin-left:20px;
