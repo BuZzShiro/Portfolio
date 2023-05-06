@@ -46,8 +46,8 @@ Nav{
 }
 .ModelSection{
 	postion:fixed;
-	bottom:0px;
-	right:0px;
+	bottom:0;
+	right:0;
 	font-size:20px;
 	z-index:6;
 	width:30%;
