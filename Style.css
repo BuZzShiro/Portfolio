@@ -45,6 +45,7 @@ Nav{
 }
 .ModelSection{
 	postion:absolute;
+	top:150px;
 	right:0px;
 	font-size:25px;
 	z-index:6;
