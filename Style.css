@@ -45,8 +45,8 @@ Nav{
 	color:rgba(255,255,255,1);
 }
 .ModelSection{
-	postion:fixed;
-	bottom:0;
+	postion:absolute;
+	top:130;
 	right:0;
 	font-size:20px;
 	z-index:6;
@@ -141,7 +141,7 @@ a.ModelImgLinkVert:active{
 }
 .ModelViewer{
 	background-color:black;
-	position:fixed;
+	position:absolute;
 	top:130;
 	left:0;
 	min-width:100%;
