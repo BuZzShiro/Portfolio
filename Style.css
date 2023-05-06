@@ -37,6 +37,7 @@ Nav{
 	color:rgba(255,255,255,1);
 }
 .HomeSection{
+	font-size:25px;
 	width:60%;
 	padding:20px;
 	padding-bottom:0px;
@@ -45,6 +46,8 @@ Nav{
 .ModelSection{
 	postion:absolute;
 	right:0px;
+	font-size:25px;
+	z-index:6;
 	width:60%;
 	padding:20px;
 	padding-bottom:0px;
