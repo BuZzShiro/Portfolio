@@ -36,11 +36,20 @@ Nav{
 	font-size:25px;	
 	color:rgba(255,255,255,1);
 }
-.HomeSecction{
+.HomeSection{
 	width:60%;
 	padding:20px;
 	padding-bottom:0px;
 	color:rgba(255,255,255,1);
+}
+.ModelSection{
+	postion:absolute;
+	right:0px;
+	width:60%;
+	padding:20px;
+	padding-bottom:0px;
+	color:rgba(255,255,255,1);
+	
 }
 .Left{
 	float:left;
