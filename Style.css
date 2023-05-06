@@ -50,12 +50,11 @@ Nav{
 	top:130;
 	right:0;
 	font-size:20px;
-	z-index:6;
+	z-index:3;
 	width:30%;
 	padding:20px;
 	padding-bottom:0px;
 	color:rgba(255,255,255,1);
-	
 }
 .Left{
 	float:left;
@@ -96,7 +95,7 @@ a.NavButton:active{
 }
 .ModelSideBar{
 	position:absolute;
-	z-index: 5;
+	z-index: 2;
 	top:110;
 	background:rgba(255,255,255,0);
 	max-width:220px;
@@ -143,6 +142,7 @@ a.ModelImgLinkVert:active{
 .ModelViewer{
 	background-color:black;
 	position:absolute;
+	z-index:1;
 	top:130;
 	left:0;
 	min-width:100%;
