@@ -116,6 +116,7 @@ a.ModelImgLink:active{
 }
 
 a.ModelImgLinkVert{
+	z-index:3;
 	margin-top:10px;
 	margin-left:10px;
 	opacity:0.8;
