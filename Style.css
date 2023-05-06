@@ -142,7 +142,7 @@ a.ModelImgLinkVert:active{
 .ModelViewer{
 	background-color:black;
 	position:absolute;
-	z-index:-1;
+	z-index:1;
 	top:130;
 	left:0;
 	min-width:100%;
