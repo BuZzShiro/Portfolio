@@ -46,8 +46,8 @@ Nav{
 	color:rgba(255,255,255,1);
 }
 .ModelSection{
-	postion:absolute;
-	top:130;
+	postion:fixed;
+	bottom:0;
 	right:0;
 	font-size:20px;
 	z-index:3;
