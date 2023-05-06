@@ -37,6 +37,8 @@
 				<a href="/Portfolio/Websites" class="NavButton">WEBSITES</a>
 			</Nav>
 		</Header>
+		<model-viewer src="Lodge.gltf" alt="A 3D model of a car" id="MViewer" class="ModelViewer" shadow-intensity="1" camera-controls auto-rotate ar >
+		</model-viewer>
 		<div class="ModelSideBar">
 			<a href="#" class="ModelImgLinkVert"><img id="MImgLink" onClick='ChangeModel("Lodge.gltf")' src="Images/Lodge.jpg" class="ModelImg" alt="Desk"></a>
 			<a href="#" class="ModelImgLinkVert"><img id="MImgLink" onClick='ChangeModel("Desk.gltf")' src="Images/Desk.jpg" class="ModelImg" alt="Desk"></a>
@@ -55,8 +57,6 @@
 			<br><br>I also love the technical aspect of 3D modeling, from mastering the software to honing my skills in areas like topology and UV unwrapping. It's a never-ending learning process, and I enjoy challenging myself to continually improve and refine my techniques.
 			<br><br>Ultimately, creating 3D models is a form of self-expression that allows me to bring my ideas and imagination to life in a concrete way. It's a fulfilling and exciting pursuit that I look forward to exploring further in the years to come.
 		</div>
-		<model-viewer src="Lodge.gltf" alt="A 3D model of a car" id="MViewer" class="ModelViewer" shadow-intensity="1" camera-controls auto-rotate ar >
-		</model-viewer>
 		<script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
 		<!-- Loads <model-viewer> for old browsers like IE11: -->
 		<script nomodule src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js"></script>
