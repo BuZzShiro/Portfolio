@@ -141,8 +141,8 @@ a.ModelImgLinkVert:active{
 }
 .ModelViewer{
 	background-color:black;
-	position:absolute;
-	top:0;
+	position:fixed;
+	top:130;
 	left:0;
 	min-width:100%;
 	max-width:100%;
