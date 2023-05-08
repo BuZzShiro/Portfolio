@@ -19,8 +19,8 @@ Nav{
 	padding-bottom:40px;
 	height:50px;
 	padding-left:200px;
-	min-width:100%;
-	max-width:100%;
+	min-width:calc(100%-200px);
+	max-width:calc(100%-200px);
 }
 .Contact{
 	position:absolute;
