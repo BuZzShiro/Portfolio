@@ -35,6 +35,19 @@ Nav{
 	font-size:25px;	
 	color:rgba(255,255,255,1);
 }
+a.NavButton{
+	color:rgba(255,255,255,0.7);
+	margin-left:20px;
+	text-decoration:none;
+	font-size:var(--NavBarButtonSize);
+	max-height:var(--NavBarButtonSize);
+}
+a.NavButton:hover{
+	color:rgba(255,255,255,1);	
+}
+a.NavButton:active{
+	color:rgba(200,200,200,1);	
+}
 .MainContainer{
 	margin-left:20%;
 	margin-right:20%;
@@ -99,18 +112,16 @@ Nav{
 	width: 100%;
 	height: 100%;
 }
-a.NavButton{
-	color:rgba(255,255,255,0.7);
-	margin-left:20px;
-	text-decoration:none;
-	font-size:var(--NavBarButtonSize);
-	max-height:var(--NavBarButtonSize);
+.RenderMain{
+	width:100%;
 }
-a.NavButton:hover{
-	color:rgba(255,255,255,1);	
+.RenderLink{
+	width: 30%;
+	margin:2%;
 }
-a.NavButton:active{
-	color:rgba(200,200,200,1);	
+.RenderImg{
+	width:100%;
+	height:100%;
 }
 .SideBar{
 	position:absolute;
