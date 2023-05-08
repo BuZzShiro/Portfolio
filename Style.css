@@ -22,10 +22,10 @@ Nav{
 	max-width:100%;
 }
 .Contact{
-	float:left;
+	position:absolute;
+	top:30;
+	left:30;
 	width:20%;
-	margin-left:40px;
-	margin-right:160px;
 }
 .Email{
 	font-size:30px;	
