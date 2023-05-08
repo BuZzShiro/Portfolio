@@ -49,6 +49,14 @@ Nav{
 	padding-bottom:0px;
 	color:rgba(255,255,255,1);
 }
+.HomeTitleSection{
+	position:auto;
+	font-size:20px;
+	width:50%;
+	padding:30px;
+	padding-bottom:0px;
+	color:rgba(255,255,255,1);
+}
 .ModelSection{
 	postion:fixed;
 	bottom:0;
