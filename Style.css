@@ -15,7 +15,6 @@ html,body{
 	--NavBarButtonSize:30px;
 	--SideBarWidth:100px;
 }
-
 Nav{
 	background:linear-gradient(rgba(80,40,80,1),rgba(80,40,80,1),rgba(0,0,0,1));
 	padding-top:40px;
@@ -59,6 +58,9 @@ Nav{
 	width:60%;
 	padding:0px 30px;
 	color:rgba(255,255,255,1);
+}
+.Closer{
+	clear:both;	
 }
 .ModelSection{
 	postion:fixed;
