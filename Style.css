@@ -77,6 +77,9 @@ Nav{
 .Right{
 	float:right;
 }
+.Video{
+	width:100%;	
+}
 a.NavButton{
 	color:rgba(255,255,255,0.7);
 	margin-left:20px;
