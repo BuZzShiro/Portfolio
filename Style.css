@@ -50,6 +50,7 @@ Nav{
 	color:rgba(255,255,255,1);
 }
 .HomeTitleSection{
+	text-align:center;
 	clear:both;
 	position:auto;
 	font-size:20px;
