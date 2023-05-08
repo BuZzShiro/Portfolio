@@ -42,7 +42,7 @@ Nav{
 .MainTitle{
 	text-align:center;
 	clear:both;
-	margin:30px auto 0px;
+	margin:30px auto 30px;
 	font-size:20px;
 	width:100%;
 	padding:0px 30px;
@@ -52,7 +52,6 @@ Nav{
 	font-size:20px;
 	width:50%;
 	margin-top:30px;
-	margin-bottom:30px;
 	padding:0px 30px;
 	padding-bottom:0px;
 	color:rgba(255,255,255,1);
