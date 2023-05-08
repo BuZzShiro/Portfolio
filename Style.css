@@ -155,6 +155,7 @@ a.ModelImgLinkVert:active{
 	max-height:calc(100% - 130px);
 }
 footer{
+	clear:both;
 	background:linear-gradient(rgba(0,0,0,1),rgba(80,40,80,1),rgba(80,40,80,1));
 	padding-top:40px;
 	padding-bottom:40px;
