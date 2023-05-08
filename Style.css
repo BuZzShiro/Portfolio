@@ -87,6 +87,7 @@ Nav{
 	float:right;
 }
 .VideoContainer {
+	clear:both;
 	position: relative;
 	padding-bottom: 56.25%; /* 16:9 */
 	height: 0;
