@@ -217,3 +217,8 @@ footer{
 .footer{
 	line-height:80px;
 }
+
+@media (max-width: 800px) {
+Contact{
+	
+}
