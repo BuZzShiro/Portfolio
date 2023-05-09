@@ -22,6 +22,10 @@ Nav{
 	min-width:calc(100%-600px);
 	max-width:calc(100%-600px);
 }
+.NavButtons{
+	float:right;
+	margin-right:20px;
+}
 .Contact{
 	position:absolute;
 	top:20px;
