@@ -206,6 +206,7 @@ a.ModelImgLinkVert:active{
 	max-height:calc(100% - 130px);
 }
 footer{
+	margin-top:30px;
 	clear:both;
 	color:rgba(255,255,255,1);
 	text-align:center;
@@ -217,10 +218,6 @@ footer{
 	min-width:100%;
 	max-width:100%;	
 }
-.footer{
-	line-height:80px;
-}
-
 @media (max-width: 800px) {
 Contact{
 	
