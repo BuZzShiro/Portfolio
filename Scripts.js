@@ -12,9 +12,13 @@ var modal = document.getElementById("myModal");
 
 var modalImage = document.getElementById("modal-image");
 
-// When the user clicks the big picture, set the image and open the modal
-imageBox1.onclick = function (e) {
-  var src = e.srcElement.src;
+function OpenLargeImg(Img) {
   modal.style.display = "block";
-  modalImage.src = src;
-};
+  modalImage.src = "/Images/Renders/" + Img;
+}
+// When the user clicks the big picture, set the image and open the modal
+//imageBox1.onclick = function (e) {
+//  var src = e.srcElement.src;
+//  modal.style.display = "block";
+//  modalImage.src = src;
+//};
