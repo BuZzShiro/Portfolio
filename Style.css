@@ -53,8 +53,9 @@ a.NavButton:active{
 	color:rgba(200,200,200,1);	
 }
 .MainContainer{
-	margin-left:20%;
-	margin-right:20%;
+	min-width:1000px;
+	max-width:1000px;
+	margin:0px auto;
 }
 .MainTitle{
 	text-align:center;
