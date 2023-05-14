@@ -134,10 +134,10 @@ a.NavButton:active{
 .modal {
 	display: block; /* Hidden by default */
 	position: fixed; /* Stay in place */
-	z-index: 1; /* Sit on top */
-	margin:20px auto;
-	width: 80%; /* Full width */
-	height: 80%; /* Full height */
+	z-index: 5; /* Sit on top */
+	margin:0px;
+	width: 100%; /* Full width */
+	height: 100%; /* Full height */
 	overflow: hidden; /* Enable scroll if needed */
 	background-color: rgb(0,0,0); /* Fallback color */
 	background-color: rgba(0,0,0,0.8); /* Black w/ opacity */
@@ -145,6 +145,8 @@ a.NavButton:active{
 
 .modal-content {
 	margin: auto;
+	width:80%;
+	height:80%;
 	text-align: center;
 }
 
