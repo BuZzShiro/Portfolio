@@ -155,6 +155,16 @@ a.NavButton:active{
 	height:100%;
 	display: inline-block;
 }
+.IconLink{
+	float:left;
+	margin-top:40%;
+	width:100px;
+	height:100px;
+}
+.IconImg{
+	width:100%;
+	height:100%;
+}
 .SideBar{
 	position:absolute;
 	z-index: -1;
