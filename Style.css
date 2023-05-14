@@ -14,7 +14,7 @@ html,body{
 	--SideBarWidth:100px;
 }
 Nav{
-	background:linear-gradient(rgba(80,40,80,1),rgba(80,40,80,1),rgba(80,40,80,1),rgba(40,20,40,1));
+	background-image: url("Images/Icons/NavBg.png");
 	padding-top:40px;
 	padding-bottom:40px;
 	height:50px;
