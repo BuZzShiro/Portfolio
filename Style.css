@@ -151,8 +151,9 @@ a.NavButton:active{
 }
 
 .modal-image {
-	width:100%;
-	height:100%;
+	float:left;
+	width:80%;
+	height:80%;
 	display: inline-block;
 }
 .IconLink{
