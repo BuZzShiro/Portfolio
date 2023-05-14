@@ -166,8 +166,8 @@ a.NavButton:active{
 	postion:absolute;
 	top:60px;
 	z-index:6;
-	width:50px;
-	height:50px;
+	max-width:50px;
+	max-height:50px;
 }
 .IconImg{
 	width:100%;
