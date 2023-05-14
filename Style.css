@@ -156,11 +156,35 @@ a.NavButton:active{
 	max-width:calc(100% - 200px);
 	display: inline-block;
 }
-.IconLink{
+a.IconLinkLeft{
+	background-image: url("Images/Icons/LeftArrowLight.png");
+	background-repeat: no-repeat;
+	background-size: auto;
 	float:left;
 	margin-top:20%;
 	width:100px;
 	height:100px;
+}
+.IconLinkLeft:hover{
+	background-image: url("Images/Icons/LeftArrowDark.png");	
+}
+.IconLinkLeft:active{
+	background-image: url("Images/Icons/LeftArrow.png");	
+}
+a.IconLinkRight{
+	background-image: url("Images/Icons/RightArrowLight.png");
+	background-repeat: no-repeat;
+	background-size: auto;
+	float:left;
+	margin-top:20%;
+	width:100px;
+	height:100px;
+}
+.IconLinkRight:hover{
+	background-image: url("Images/Icons/RightArrowDark.png");	
+}
+.IconLinkRight:active{
+	background-image: url("Images/Icons/RightArrow.png");	
 }
 .IconCloseLink{
 	postion:absolute;
