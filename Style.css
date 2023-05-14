@@ -162,6 +162,7 @@ a.IconLinkLeft{
 	background-size: auto;
 	float:left;
 	margin-top:20%;
+	margin-right:10px;
 	width:100px;
 	height:100px;
 }
@@ -177,6 +178,7 @@ a.IconLinkRight{
 	background-size: auto;
 	float:left;
 	margin-top:20%;
+	margin-left:10px;
 	width:100px;
 	height:100px;
 }
