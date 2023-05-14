@@ -152,11 +152,8 @@ a.NavButton:active{
 
 #modal-image {
 	float:left;
-	min-width:calca(100% - 200px);
-	max-width:calca(100% - 200px);
-	min-height:calca(100% - 200px);
-	max-height:calca(100% - 200px);
-	max-height:40%;
+	min-width:calc(100% - 200px);
+	max-width:calc(100% - 200px);
 	display: inline-block;
 }
 .IconLink{
