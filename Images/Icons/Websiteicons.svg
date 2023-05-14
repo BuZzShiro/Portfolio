@@ -19,6 +19,22 @@
      id="defs2">
     <linearGradient
        inkscape:collect="always"
+       id="linearGradient388">
+      <stop
+         style="stop-color:#a078a0;stop-opacity:1;"
+         offset="0"
+         id="stop384" />
+      <stop
+         style="stop-color:#502850;stop-opacity:1;"
+         offset="0.5"
+         id="stop3319" />
+      <stop
+         style="stop-color:#281428;stop-opacity:1;"
+         offset="1"
+         id="stop386" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
        id="linearGradient1206">
       <stop
          style="stop-color:#281428;stop-opacity:1;"
@@ -51,7 +67,7 @@
        fy="100.35268"
        r="13.22917"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(0)" />
+       gradientTransform="matrix(1.0481182,0,0,1.0481182,-3.7695359,-4.2214478)" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient1118"
@@ -62,7 +78,7 @@
        fx="90.960968"
        fy="100.35268"
        r="13.22917"
-       gradientTransform="translate(-38.587574)" />
+       gradientTransform="matrix(1.0481182,0,0,1.0481182,-42.357111,-4.2214478)" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient1118"
@@ -72,7 +88,8 @@
        cy="100.35268"
        fx="90.960968"
        fy="100.35268"
-       r="13.22917" />
+       r="13.22917"
+       gradientTransform="matrix(1.0481182,0,0,1.0481182,-221.12041,-4.2214912)" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient1206"
@@ -83,13 +100,13 @@
        fx="90.960968"
        fy="100.35268"
        r="13.22917"
-       gradientTransform="translate(0,34.885115)" />
+       gradientTransform="matrix(1.0481182,0,0,1.0481182,-3.7695359,30.663668)" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient1206"
        id="radialGradient1223"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(0,34.885115)"
+       gradientTransform="matrix(1.0481182,0,0,1.0481182,-221.53553,30.663668)"
        cx="90.960968"
        cy="100.35268"
        fx="90.960968"
@@ -100,12 +117,22 @@
        xlink:href="#linearGradient1206"
        id="radialGradient1231"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-36.882658,34.885115)"
+       gradientTransform="matrix(1.0481182,0,0,1.0481182,-40.652195,30.663668)"
        cx="90.960968"
        cy="100.35268"
        fx="90.960968"
        fy="100.35268"
        r="13.22917" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient388"
+       id="linearGradient1759"
+       x1="83.192871"
+       y1="64.935944"
+       x2="83.192871"
+       y2="23.072344"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.00245726,0,0,1,45.841508,0)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -114,9 +141,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.2310056"
-     inkscape:cx="378.97708"
-     inkscape:cy="432.54037"
+     inkscape:zoom="1.5775592"
+     inkscape:cx="230.41925"
+     inkscape:cy="534.36981"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -144,116 +171,178 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <ellipse
-       style="fill:url(#radialGradient1178);fill-opacity:1;stroke:#000000;stroke-width:2.40531;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-       id="ellipse1176"
-       cx="52.373394"
-       cy="100.35268"
-       rx="12.026515"
-       ry="12.026514"
+    <g
+       id="g4877"
        inkscape:export-filename="CloseDark.png"
        inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
-    <path
-       id="rect357"
-       style="stroke-width:3.15097;stroke-linecap:round;stroke-linejoin:round"
-       d="m 46.980455,94.95993 c -0.746915,0.746916 -0.746914,1.94922 10e-7,2.696135 l 2.696518,2.696515 -2.696518,2.69652 c -0.746915,0.74691 -0.746534,1.9496 3.79e-4,2.69651 0.746916,0.74692 1.949224,0.74692 2.696141,1e-5 l 2.696517,-2.69652 2.696514,2.69651 c 0.746916,0.74692 1.949218,0.74692 2.696133,0 0.746917,-0.74691 0.747299,-1.94959 3.83e-4,-2.69651 l -2.696514,-2.69651 2.696137,-2.696142 c 0.746914,-0.746914 0.74729,-1.949604 3.74e-4,-2.69652 -0.746913,-0.746914 -1.949979,-0.746914 -2.696894,2e-6 l -2.696136,2.696136 -2.696517,-2.696517 c -0.746916,-0.746916 -1.949601,-0.746536 -2.696518,3.81e-4 z" />
+       inkscape:export-ydpi="96">
+      <ellipse
+         style="fill:url(#radialGradient1178);fill-opacity:1;stroke:#000000;stroke-width:1.24792;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="ellipse1176"
+         cx="52.980732"
+         cy="100.96001"
+         rx="12.605209"
+         ry="12.605207"
+         inkscape:export-filename="CloseDark.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         id="rect357"
+         style="stroke-width:3.30259;stroke-linecap:round;stroke-linejoin:round"
+         d="m 47.328296,95.30778 c -0.782855,0.782856 -0.782854,2.043013 10e-7,2.825868 l 2.826269,2.826262 -2.826269,2.82628 c -0.782855,0.78285 -0.782456,2.04341 3.97e-4,2.82626 0.782856,0.78286 2.043017,0.78286 2.825875,1e-5 l 2.826268,-2.82627 2.826265,2.82626 c 0.782857,0.78286 2.043011,0.78286 2.825866,0 0.782858,-0.78285 0.783258,-2.0434 4.02e-4,-2.82626 l -2.826266,-2.82626 2.825871,-2.82588 c 0.782854,-0.782855 0.783248,-2.043416 3.92e-4,-2.826272 -0.782854,-0.782854 -2.043809,-0.782854 -2.826664,2e-6 l -2.825869,2.825869 -2.826269,-2.826268 c -0.782856,-0.782856 -2.043412,-0.782458 -2.826269,3.99e-4 z" />
+    </g>
     <g
-       id="g1211"
+       id="g4853"
        inkscape:export-filename="LeftArrowDark.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
-      <g
-         id="g1182">
-        <ellipse
-           style="fill:url(#radialGradient1120);stroke:#000000;stroke-width:2.40531;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;fill-opacity:1"
-           id="ellipse1079"
-           cx="90.960968"
-           cy="100.35268"
-           rx="12.026515"
-           ry="12.026514" />
-        <path
-           id="path1081"
-           style="stroke:#000000;stroke-width:4.21938;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-           d="m 93.40781,95.186116 -7.01051,5.166574 7.01051,5.16655 z"
-           sodipodi:nodetypes="cccc" />
-      </g>
+      <ellipse
+         style="fill:url(#radialGradient1120);fill-opacity:1;stroke:#000000;stroke-width:1.24792;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="ellipse1079"
+         cx="91.568306"
+         cy="100.96001"
+         rx="12.605209"
+         ry="12.605207" />
+      <path
+         id="path1081"
+         style="stroke:#000000;stroke-width:4.42241;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 94.132887,95.54485 -7.347843,5.41518 7.347843,5.41515 z"
+         sodipodi:nodetypes="cccc" />
     </g>
     <g
-       id="g1188"
-       transform="matrix(-1,0,0,1,216.13619,0)"
+       id="g4857"
        inkscape:export-filename="RightArrowDark.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
       <ellipse
-         style="fill:url(#radialGradient1190);fill-opacity:1;stroke:#000000;stroke-width:2.40531;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         style="fill:url(#radialGradient1190);fill-opacity:1;stroke:#000000;stroke-width:1.24792;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
          id="ellipse1184"
-         cx="90.960968"
-         cy="100.35268"
-         rx="12.026515"
-         ry="12.026514" />
+         cx="-125.78255"
+         cy="100.95997"
+         rx="12.605209"
+         ry="12.605207"
+         transform="scale(-1,1)" />
       <path
          id="path1186"
-         style="stroke:#000000;stroke-width:4.21938;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-         d="m 93.40781,95.186116 -7.01051,5.166574 7.01051,5.16655 z"
+         style="stroke:#000000;stroke-width:4.42241;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 123.21798,95.544806 7.34784,5.415184 -7.34784,5.41515 z"
          sodipodi:nodetypes="cccc" />
     </g>
     <g
-       id="g1244"
+       id="g4845"
        inkscape:export-filename="LeftArrowLight.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
-      <g
-         id="g1215">
-        <ellipse
-           style="fill:url(#radialGradient1198);fill-opacity:1;stroke:#000000;stroke-width:2.40531;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-           id="ellipse1192"
-           cx="90.960968"
-           cy="135.23779"
-           rx="12.026515"
-           ry="12.026514" />
-        <path
-           id="path1194"
-           style="stroke:#000000;stroke-width:4.21938;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-           d="m 93.40781,130.07123 -7.01051,5.16657 7.01051,5.16655 z"
-           sodipodi:nodetypes="cccc" />
-      </g>
+      <ellipse
+         style="fill:url(#radialGradient1198);fill-opacity:1;stroke:#000000;stroke-width:1.24792;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="ellipse1192"
+         cx="91.568306"
+         cy="135.84514"
+         rx="12.605209"
+         ry="12.605207" />
+      <path
+         id="path1194"
+         style="stroke:#000000;stroke-width:4.42241;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 87.719716,135.84564 c 1.95294,1.43912 3.905878,2.87824 5.858817,4.31735 0,-2.87891 0,-5.75783 0,-8.63674 -1.952939,1.4398 -3.905877,2.87959 -5.858817,4.31939 z" />
     </g>
     <g
-       id="g1221"
-       transform="matrix(-1,0,0,1,216.55131,0)"
+       id="g4849"
        inkscape:export-filename="RightArrowLight.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
       <ellipse
-         style="fill:url(#radialGradient1223);fill-opacity:1;stroke:#000000;stroke-width:2.40531;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         style="fill:url(#radialGradient1223);fill-opacity:1;stroke:#000000;stroke-width:1.24792;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
          id="ellipse1217"
-         cx="90.960968"
-         cy="135.23779"
-         rx="12.026515"
-         ry="12.026514" />
+         cx="-126.19768"
+         cy="135.84514"
+         rx="12.605209"
+         ry="12.605207"
+         transform="scale(-1,1)" />
       <path
          id="path1219"
-         style="stroke:#000000;stroke-width:4.21938;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-         d="m 93.40781,130.07123 -7.01051,5.16657 7.01051,5.16655 z"
-         sodipodi:nodetypes="cccc" />
+         style="stroke:#000000;stroke-width:4.42241;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 124.18691,140.16299 c 1.95293,-1.43912 3.90587,-2.87823 5.85881,-4.31735 -1.95294,-1.4398 -3.90588,-2.87959 -5.85881,-4.31939 0,2.87891 -1e-5,5.75783 0,8.63674 z" />
     </g>
     <g
-       id="g1239"
+       id="g4873"
        inkscape:export-filename="CloseLight.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
       <ellipse
-         style="fill:url(#radialGradient1231);fill-opacity:1;stroke:#000000;stroke-width:2.40531;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         style="fill:url(#radialGradient1231);fill-opacity:1;stroke:#000000;stroke-width:1.24792;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
          id="ellipse1225"
-         cx="54.078312"
-         cy="135.23779"
-         rx="12.026515"
-         ry="12.026514" />
+         cx="54.68565"
+         cy="135.84514"
+         rx="12.605209"
+         ry="12.605207" />
       <path
          id="path1235"
-         style="stroke-width:3.15097;stroke-linecap:round;stroke-linejoin:round"
-         d="m 48.685373,129.84505 c -0.746915,0.74691 -0.746914,1.94922 1e-6,2.69613 l 2.696518,2.69652 -2.696518,2.69652 c -0.746915,0.74691 -0.746534,1.9496 3.79e-4,2.69651 0.746916,0.74692 1.949224,0.74692 2.696141,1e-5 l 2.696517,-2.69652 2.696514,2.69651 c 0.746916,0.74692 1.949218,0.74692 2.696133,0 0.746917,-0.74691 0.747299,-1.94959 3.83e-4,-2.69651 l -2.696514,-2.69651 2.696137,-2.69615 c 0.746914,-0.74691 0.74729,-1.9496 3.74e-4,-2.69652 -0.746913,-0.74691 -1.949979,-0.74691 -2.696894,10e-6 l -2.696136,2.69613 -2.696517,-2.69651 c -0.746916,-0.74692 -1.949601,-0.74654 -2.696518,3.8e-4 z" />
+         style="stroke-width:3.30259;stroke-linecap:round;stroke-linejoin:round"
+         d="m 50.302601,130.16902 c -1.233707,0.0608 -1.765764,1.8042 -0.783597,2.55108 0.911497,0.91084 1.822993,1.82166 2.734489,2.7325 0.2062,0.73179 -0.329624,1.15607 -0.81554,1.60104 -0.748437,0.84723 -1.727266,1.52284 -2.326766,2.48294 -0.530664,1.11287 0.772978,2.41383 1.885384,1.88333 1.007188,-0.64555 1.724927,-1.67265 2.619336,-2.46531 0.365626,-0.49772 0.933309,-0.92358 1.536679,-0.60285 1.051678,0.98511 1.983753,2.11742 3.107116,3.01494 1.090188,0.6435 2.528072,-0.61582 2.017648,-1.7813 -0.517764,-0.95558 -1.503911,-1.57313 -2.204809,-2.39432 -0.410969,-0.48842 -1.160006,-0.83675 -0.953077,-1.58125 0.223491,-0.58871 0.925488,-0.97921 1.334037,-1.49126 0.616388,-0.78899 1.730408,-1.31326 1.908579,-2.36917 0.185993,-1.21817 -1.428785,-2.09488 -2.345984,-1.26511 -0.923672,0.90337 -1.966254,1.96264 -2.937596,2.92736 -0.731794,0.2062 -1.156075,-0.32963 -1.601039,-0.81554 -0.846825,-0.75024 -1.523825,-1.72431 -2.482937,-2.32881 -0.220887,-0.0832 -0.456189,-0.12271 -0.691923,-0.0982 z" />
+    </g>
+    <rect
+       style="fill:url(#linearGradient1759);fill-opacity:1;stroke:none;stroke-width:0.222126;stroke-linecap:round;stroke-linejoin:round"
+       id="rect322"
+       width="0.26458332"
+       height="34.395832"
+       x="45.95443"
+       y="20.46146"
+       rx="0"
+       ry="0"
+       inkscape:export-filename="NavBg.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g4861"
+       inkscape:export-filename="LeftArrow.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <ellipse
+         style="fill:#785078;fill-opacity:1;stroke:#000000;stroke-width:1.24792;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="ellipse4047"
+         cx="91.568306"
+         cy="171.73656"
+         rx="12.605209"
+         ry="12.605207" />
+      <path
+         id="path4049"
+         style="stroke:#000000;stroke-width:4.42241;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 86.454605,171.28996 c -0.1951,0.74548 0.22083,1.18218 0.843823,1.51424 2.16843,1.59763 4.336858,3.19527 6.505287,4.79289 0.729429,-0.19567 1.067331,-0.63233 0.884349,-1.38957 0,-3.2953 0,-6.59059 0,-9.88588 -0.590618,-0.47037 -1.142784,-0.48302 -1.64379,0.11325 -2.196556,1.61836 -4.393112,3.23672 -6.589669,4.85507 z" />
+    </g>
+    <g
+       id="g4865"
+       inkscape:export-filename="RightArrow.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <ellipse
+         style="fill:#785078;fill-opacity:1;stroke:#000000;stroke-width:1.24792;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="ellipse4066"
+         cx="-131.41582"
+         cy="171.73656"
+         rx="12.605209"
+         ry="12.605207"
+         transform="scale(-1,1)" />
+      <path
+         id="path4068"
+         style="stroke:#000000;stroke-width:4.42241;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         d="m 128.29615,166.32164 c 0,3.60972 0,7.21945 0,10.82918 0.59062,0.47037 1.14278,0.48302 1.64379,-0.11326 2.19656,-1.61835 4.39312,-3.23671 6.58967,-4.85506 0.1951,-0.74548 -0.22083,-1.18218 -0.84382,-1.51425 -2.16843,-1.59762 -4.33686,-3.19526 -6.50529,-4.79288 -0.29479,0.14876 -0.58957,0.29751 -0.88435,0.44627 z" />
+    </g>
+    <g
+       id="g4869"
+       inkscape:export-filename="Close.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <ellipse
+         style="fill:#785078;fill-opacity:1;stroke:#000000;stroke-width:1.24792;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+         id="ellipse4072"
+         cx="47.451427"
+         cy="171.73656"
+         rx="12.605209"
+         ry="12.605207" />
+      <path
+         id="path4082"
+         style="stroke-width:3.30259;stroke-linecap:round;stroke-linejoin:round"
+         d="m 42.99043,164.95212 c -1.80671,0.0831 -2.969109,2.33677 -1.970504,3.85032 0.822193,1.07734 1.896654,1.94217 2.820053,2.93379 -0.945423,1.04336 -2.115148,1.9071 -2.902797,3.07885 -0.899687,1.58826 0.429096,3.77171 2.24977,3.7155 1.602206,0.036 2.460826,-1.53009 3.536761,-2.45385 0.464747,-0.68743 0.929606,-0.83129 1.394659,-0.0606 1.094168,0.92438 1.939935,2.50973 3.547691,2.51447 1.801703,0.0917 3.178638,-2.03493 2.336104,-3.63631 -0.714541,-1.17857 -1.892142,-1.99796 -2.802532,-3.0225 -0.144996,-0.46526 0.823858,-0.93029 1.124503,-1.39547 0.889737,-0.88507 2.12107,-1.83103 1.906949,-3.25189 -0.12046,-1.82272 -2.434864,-2.93337 -3.926349,-1.87106 -1.024836,0.83889 -1.891659,1.85902 -2.853665,2.76974 -1.043185,-0.94482 -1.90607,-2.11544 -3.078847,-2.90075 -0.423567,-0.21669 -0.907928,-0.31099 -1.381796,-0.27022 z" />
     </g>
   </g>
 </svg>
