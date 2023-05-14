@@ -135,9 +135,7 @@ a.NavButton:active{
 	display: block; /* Hidden by default */
 	position: fixed; /* Stay in place */
 	z-index: 1; /* Sit on top */
-	padding-top: 50px; /* Location of the box */
-	left: 0;
-	top: 0;
+	margin:140px auto;
 	width: 80%; /* Full width */
 	height: 80%; /* Full height */
 	overflow: auto; /* Enable scroll if needed */
