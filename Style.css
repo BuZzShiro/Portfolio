@@ -193,7 +193,7 @@ a.IconCloseLink{
 	background-image: url("Images/Icons/CloseLight.png");
 	background-repeat: no-repeat;
 	background-size: auto;	
-	postion:absolute;
+	postion:relative;
 	top:60px;
 	z-index:6;
 	min-width:50px;
