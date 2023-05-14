@@ -152,8 +152,8 @@ a.NavButton:active{
 
 #modal-image {
 	float:left;
-	min-width:calc(100% - 200px);
-	max-width:calc(100% - 200px);
+	min-width:calc(100% - 220px);
+	max-width:calc(100% - 220px);
 	display: inline-block;
 }
 a.IconLinkLeft{
