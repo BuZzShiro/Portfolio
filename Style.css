@@ -188,16 +188,23 @@ a.IconLinkRight{
 .IconLinkRight:active{
 	background-image: url("Images/Icons/RightArrow.png");	
 }
-.IconCloseLink{
+a.IconCloseLink{
+	background-image: url("Images/Icons/CloseLight.png");
+	background-repeat: no-repeat;
+	background-size: auto;	
 	postion:absolute;
 	top:60px;
 	z-index:6;
+	min-width:50px;
 	max-width:50px;
+	min-height:50px;
 	max-height:50px;
 }
-.IconImg{
-	width:100%;
-	height:100%;
+.IconCloseLink:hover{
+	background-image: url("Images/Icons/CloseDark.png");	
+}
+.IconCloseLink:active{
+	background-image: url("Images/Icons/Close.png");	
 }
 .SideBar{
 	position:absolute;
