@@ -155,7 +155,8 @@ a.NavButton:active{
 	min-width:calc(100% - 220px);
 	max-width:calc(100% - 220px);
 	display: inline-block;
-	border-style: solid 10px;
+	border-style: solid;
+	border-width:5px;
 }
 a.IconLinkLeft{
 	background-image: url("Images/Icons/LeftArrowLight.png");
