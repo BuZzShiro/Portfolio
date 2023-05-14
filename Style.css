@@ -152,8 +152,8 @@ a.NavButton:active{
 
 #modal-image {
 	float:left;
-	min-width:calc(100% - 230px);
-	max-width:calc(100% - 230px);
+	min-width:calc(100% - 228px);
+	max-width:calc(100% - 228px);
 	display: inline-block;
 	border-style: solid;
 	border-width:4px;
