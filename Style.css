@@ -150,11 +150,12 @@ a.NavButton:active{
 	text-align: center;
 }
 
-.modal-image {
+#modal-image {
 	float:left;
-	min-width:40%;
-	max-height:40%;
-	min-width:40%;
+	min-width:calca(100% - 200px);
+	max-width:calca(100% - 200px);
+	min-height:calca(100% - 200px);
+	max-height:calca(100% - 200px);
 	max-height:40%;
 	display: inline-block;
 }
