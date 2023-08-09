@@ -36,6 +36,7 @@ Nav{
 .Email{
 	font-size:30px;	
 	color:rgba(255,255,255,1);
+	float:left;
 }
 a.CopyIcon{
 	float:left;
