@@ -98,6 +98,13 @@ a.NavButton:active{
 	color:rgba(0,0,0,1);
 	font-weight: bold;
 }
+.SkillsImg{
+	width:100%;
+}
+.LanguagesImg{
+	width:50%;
+	margin:0px auto;
+}
 .Closer{
 	clear:both;	
 }
