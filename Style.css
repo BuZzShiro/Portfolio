@@ -105,6 +105,10 @@ a.NavButton:active{
 	width:50%;
 	margin:0px auto;
 }
+.BackgroundRender{
+	position:absolute;
+	z-index:-5;
+}
 .Closer{
 	clear:both;	
 }
