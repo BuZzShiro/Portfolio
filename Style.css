@@ -99,10 +99,12 @@ a.NavButton:active{
 	font-weight: bold;
 }
 .SkillsImg{
+	position:absolute;
 	width:100%;
 	z-index:1;
 }
 .LanguagesImg{
+	position:absolute;
 	width:50%;
 	margin:0px auto;
 	z-index:1;
