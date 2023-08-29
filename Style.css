@@ -82,7 +82,7 @@ a.NavButton:active{
 .MainContainer{
 	min-width:1200px;
 	max-width:1200px;
-	margin:0px auto;
+	margin:20px auto;
 }
 .MainTitle{
 	text-align:center;
