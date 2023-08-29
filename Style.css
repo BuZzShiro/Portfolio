@@ -8,12 +8,13 @@ font-family: 'Open Sans', sans-serif;
 	--NavBarButtonSize:30px;
 	--SideBarWidth:100px;
 	--PageColour:rgba(40,40,40,1);
-	--HeaderColour:rgba(20,20,20,1);
+	--HeaderColour:rgba(35,35,35,1);
 }
 html,body{
 	height:100%;
 	width:100%;
 	background:var(--PageColour);
+	margin-top:130px;
 }
 Header{
 	overflow: hidden;
