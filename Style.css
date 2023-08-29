@@ -265,7 +265,7 @@ a.IconCloseLink{
 	max-width:220px;
 }
 
-a.ModelImgLink{
+a.Link{
 	margin-top:10px;
 	margin-left:0.9%;
 	opacity:0.8;
@@ -273,10 +273,10 @@ a.ModelImgLink{
 	width:9%;
 	height:9%;
 }
-a.ModelImgLink:hover{
+a.Link:hover{
 	opacity:0.9;
 }
-a.ModelImgLink:active{
+a.Link:active{
 	opacity:1;
 }
 
@@ -284,13 +284,13 @@ a.ModelImgLinkVert{
 	z-index:3;
 	margin-top:10px;
 	margin-left:10px;
-	opacity:0.8;
+	opacity:0.5;
 	float:left;
 	width:100px;
 	height:100px;
 }
 a.ModelImgLinkVert:hover{
-	opacity:0.9;
+	opacity:0.75;
 }
 a.ModelImgLinkVert:active{
 	opacity:1;
