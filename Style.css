@@ -325,8 +325,8 @@ a.ModelImgLinkVert:active{
 	left:0;
 	min-width:100%;
 	max-width:100%;
-	min-height:calc(100% - 130px);
-	max-height:calc(100% - 130px);
+	min-height:calc(100% - 260px);
+	max-height:calc(100% - 260px);
 }
 footer{
 	margin-top:30px;
