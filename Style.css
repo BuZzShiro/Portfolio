@@ -151,6 +151,7 @@ a.NavButton:active{
 }
 .VideoContainer {
 	clear:both;
+	border-radius: 30px;
 	position: relative;
 	padding-bottom: 56.25%; /* 16:9 */
 	height: 0;
