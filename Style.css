@@ -8,7 +8,7 @@ font-family: 'Open Sans', sans-serif;
 	--NavBarButtonSize:30px;
 	--SideBarWidth:100px;
 	--PageColour:rgba(40,40,40,1);
-	--PageColour:rgba(37,37,40,1)
+	--PageColour:rgba(37,37,40,1);
 	--HeaderColour:rgba(30,30,30,1);
 }
 html{
