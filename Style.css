@@ -182,7 +182,7 @@ a.NavButton:active{
 	vertical-align: middle;
 }
 .modal {
-	display: block; /* Hidden by default */
+	display: hidden; /* Hidden by default */
 	position: fixed; /* Stay in place */
 	z-index: 4; /* Sit on top */
 	margin:0px;
