@@ -173,6 +173,7 @@ a.NavButton:active{
 .RenderLink{
 	display:block;
 	float:left;
+	min-width: 100%;
 	max-width: 100%;
 	margin:0%;
 }
