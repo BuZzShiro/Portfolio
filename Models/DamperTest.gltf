@@ -91,7 +91,12 @@
         },
         {
             "mesh" : 3,
-            "name" : "Plane.006"
+            "name" : "Plane.006",
+            "translation" : [
+                0,
+                0.01000000536441803,
+                0
+            ]
         },
         {
             "children" : [
