@@ -178,7 +178,7 @@ a.NavButton:active{
 	margin:0%;
 }
 .RenderImg{
-	width:100%;
+	width:calc(100% / 3;
 	height:100%;
 	vertical-align: middle;
 }
