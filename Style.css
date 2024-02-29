@@ -173,14 +173,13 @@ a.NavButton:active{
 .RenderLink{
 	display:block;
 	float:left;
-	min-width: 80%;
-	max-width: 80%;
+	min-width: 33%;
+	max-width: 33%;
 	margin:0%;
 }
 .RenderImg{
-	width:calc(100% / 3;
+	width:100%;
 	height:100%;
-	float:left;
 }
 .modal {
 	display: hidden; /* Hidden by default */
